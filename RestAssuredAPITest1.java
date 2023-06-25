@@ -5,7 +5,6 @@ import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.Test;
 
 public class RestAssuredAPITest1 {
-
     @Test
     public void GetBooksDetails1() {
         // Specify the base URL to the RESTful web service
